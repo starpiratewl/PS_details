@@ -1,0 +1,4 @@
+1,do not use the contrast ratio tool in the toolbox of the right adjustment panel. This tool will create a new layer in the channel. Ajust contrast ratio through this layer will change all the layers in this channel.
+
+2, if we want adjust only one layer in our channel, just select the layer you want to change and through the top menus, Image--adjustment -- contrast
+
